@@ -1,8 +1,9 @@
 package com.git.git;
 
 public class Class2 {
-sdfdfsjlfsdjfkj
-lksdjflkjf
-lsdkfldk
+private void syso() {
+	// TODO Auto-generated method stub
+
+}
 
 }
